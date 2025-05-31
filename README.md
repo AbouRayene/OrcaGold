@@ -1,5 +1,5 @@
 # OrcaGold
-New Plugin for Icone Boxes in releases section
+New Plugin for Icone Boxes
 
 You will find here OrcaGold.ngz beta releases (still not official) 
 tested and working on differents android icone boxes even weego.
