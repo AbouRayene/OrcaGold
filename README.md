@@ -9,7 +9,4 @@ Auto-dvbap add priorities
 
 You can install it easely through menu - manager - file transfer - usb to box - choose the file and ok
 
-The [EmojiRamMemory](https://raw.githubusercontent.com/AbouRayene/OrcaGold/main/EmojiRamMemory.ngz) is for updating emojis in you android 7 boxes to the V12+ and add a swap memory of 256 MB.
-
-
 Thanks & Enjoy
